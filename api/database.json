@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Campbell",
+      "departmentId": 1,
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Erin Wainscott",
+      "departmentId": 2,
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Luis Ojeda",
+      "departmentId": 3,
+      "computerId": 1
+    },
+    {
+      "id": 4,
+      "name": "Chris Terrell",
+      "departmentId": 4,
+      "computerId": 3
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department": "Finance"
+    },
+    {
+      "id": 2,
+      "department": "People Operations"
+    },
+    {
+      "id": 3,
+      "department": "Quality Control"
+    },
+    {
+      "id": 4,
+      "department": "Production"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "make": "MacBook Pro"
+    },
+    {
+      "id": 2,
+      "make": "Macbook Air"
+    },
+    {
+      "id": 3,
+      "make": "Lenovo"
+    }
+  ]
+}
